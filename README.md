@@ -1,6 +1,6 @@
-# flappybird
+# Flappy-Ball-Game
 
-A new Flutter project.
+This is a simple flappy ball game made using Flutter.
 
 ## Getting Started
 
